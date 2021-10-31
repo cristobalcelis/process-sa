@@ -1,0 +1,29 @@
+{
+    "name": "#Process SA",
+    "short_name": "#Process SA",
+    "description": "Bienvenid@s a #Process SA",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": ".",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+    ]
+  }
